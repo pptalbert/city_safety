@@ -1,0 +1,16 @@
+country,city,code
+中国,北京,CN-BJ
+中国,上海,CN-SH
+中国,广州,CN-GZ
+中国,深圳,CN-SZ
+加拿大,多伦多,CA-TOR
+加拿大,温哥华,CA-VAN
+加拿大,蒙特利尔,CA-MTL
+美国,纽约,US-NYC
+美国,旧金山,US-SFO
+美国,芝加哥,US-CHI
+英国,伦敦,GB-LON
+法国,巴黎,FR-PAR
+日本,东京,JP-TYO
+新加坡,新加坡,SG-SIN
+澳大利亚,悉尼,AU-SYD
